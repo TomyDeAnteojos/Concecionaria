@@ -1,0 +1,590 @@
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\Vistas.dll.config
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\Vistas.pdb
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\csc.exe
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\csc.exe.config
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\csc.rsp
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\csi.exe
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\csi.exe.config
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\csi.rsp
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Console.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\vbc.exe
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\vbc.rsp
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\obj\Debug\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\Nueva carpeta\concesionaria\Vistas\obj\Debug\Vistas.pdb
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\Vistas.dll.config
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\Vistas.pdb
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\csc.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\csc.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\csc.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\csi.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\csi.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\csi.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Console.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\vbc.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\vbc.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\obj\Debug\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria\Vistas\obj\Debug\Vistas.pdb
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\Vistas.dll.config
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\Vistas.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\Vistas.pdb
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\csc.exe
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\csc.exe.config
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\csc.rsp
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\csi.exe
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\csi.exe.config
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\csi.rsp
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Console.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\vbc.exe
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\vbc.rsp
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\obj\Debug\Vistas.dll
+C:\Users\ruben\OneDrive\Escritorio\concesionaria\Vistas\obj\Debug\Vistas.pdb
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\Vistas.dll.config
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\Vistas.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\Vistas.pdb
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\csc.exe
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\csc.rsp
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\csi.exe
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\csi.rsp
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\vbc.exe
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.dll
+C:\Users\tfmed\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\Vistas.dll.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\Vistas.pdb
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\csc.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\csc.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\csc.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\csi.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\csi.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\csi.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Console.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\vbc.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\vbc.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V3\Vistas\obj\Debug\Vistas.pdb
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\Vistas.dll.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\Vistas.pdb
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\csc.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\csc.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\csc.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\csi.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\csi.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\csi.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Console.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\vbc.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\vbc.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\obj\Debug\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V6\Vistas\obj\Debug\Vistas.pdb
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\Vistas.dll.config
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\Vistas.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\Vistas.pdb
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\csc.exe
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\csc.exe.config
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\csc.rsp
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\csi.exe
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\csi.exe.config
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\csi.rsp
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Console.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\vbc.exe
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\vbc.rsp
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\obj\Debug\Vistas.dll
+C:\Users\ruben\OneDrive\Escritorio\V7\concesionaria_V6\Vistas\obj\Debug\Vistas.pdb
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\Vistas.dll.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\Vistas.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\Vistas.pdb
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\csc.exe
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\csc.exe.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\csc.rsp
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\csi.exe
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\csi.exe.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\csi.rsp
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.AppContext.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Collections.Immutable.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Console.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.IO.Compression.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.IO.FileSystem.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Net.Http.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Net.Sockets.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.ValueTuple.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Xml.XPath.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\vbc.exe
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\vbc.exe.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\vbc.rsp
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\VBCSCompiler.exe
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\roslyn\VBCSCompiler.exe.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\obj\Debug\Vistas.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V6\Vistas\obj\Debug\Vistas.pdb
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\Vistas.dll.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\Vistas.pdb
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\csc.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\csc.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\csc.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\csi.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\csi.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\csi.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Console.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\vbc.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\vbc.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\vbc.rsp
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\obj\Debug\Vistas.dll
+C:\Users\PEREIRAGO\Desktop\concesionaria_V9\Vistas\obj\Debug\Vistas.pdb
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\Vistas.dll.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\Vistas.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\Vistas.pdb
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\csc.exe
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\csc.exe.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\csc.rsp
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\csi.exe
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\csi.exe.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\csi.rsp
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.AppContext.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Collections.Immutable.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Console.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Globalization.Calendars.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.IO.Compression.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.IO.FileSystem.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Net.Http.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Net.Sockets.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Reflection.Metadata.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.ValueTuple.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Xml.XPath.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\vbc.exe
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\vbc.exe.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\vbc.rsp
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\VBCSCompiler.exe
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\roslyn\VBCSCompiler.exe.config
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\obj\Debug\Vistas.csproj.AssemblyReference.cache
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\obj\Debug\Vistas.csproj.CopyComplete
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\obj\Debug\Vistas.dll
+D:\Usuario\Escritorio\utn\UTN pacheto-programacion\PROGRAMACION III\concesionaria_V11\Vistas\obj\Debug\Vistas.pdb
